@@ -5,6 +5,7 @@
 Lo más fácil es correr la aplicación en docker-compose.
 
 ```shell
+cp .env.example .env
 docker-compose up -d
 ```
 
